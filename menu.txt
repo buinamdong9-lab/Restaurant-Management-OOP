@@ -1,0 +1,114 @@
+Food
+F001
+Bo Wagyu A5 nuong
+480000
+
+Food
+F002
+Ba chi bo My
+220000
+
+Food
+F003
+Bo Uc Prime nuong muoi ot
+199000
+
+Food
+F004
+Nam bo sot me
+210000
+
+Food
+F005
+Loi vai Wagyu
+320000
+
+Food
+F006
+Lau bo pho mai
+260000
+
+Food
+F007
+Gan bo Wagyu nuong sa
+240000
+
+Food
+F008
+Ba chi bo tam muoi cay
+189000
+
+Food
+F009
+Long bo nuong muoi ot
+160000
+
+Food
+F010
+Nam bo nuong sot cay
+179000
+
+Food
+F011
+Long non nuong
+210000
+
+Food
+F012
+Kim chi chien gion
+89000
+
+Food
+F013
+Khoai tay chien tru bat
+79000
+
+Food
+F014
+Salad tron me rang
+99000
+
+Food
+F015
+Com chien bo Wagyu
+160000
+Drink
+D001
+Tra dao cam sa
+45000
+
+Drink
+D002
+Nuoc ep tao
+55000
+
+Drink
+D003
+Coca
+35000
+
+Drink
+D004
+Bia Heineken
+45000
+
+Drink
+D005
+Bia Huda
+45000
+
+Drink
+D006
+Bia HaNoi
+35000
+
+Drink
+D007
+Bia SaiGon
+35000
+
+Drink
+D008
+Soju Han Quoc
+120000
+
